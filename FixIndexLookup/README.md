@@ -1,0 +1,4 @@
+## FixIndexLookup
+
+**Instructions:**
+Implement get_item(items, index). Return the item at the given index. If the index is outside the list, return Index out of range. Negative indexes should also return Index out of range for this challenge.
